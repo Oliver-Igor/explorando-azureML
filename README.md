@@ -28,6 +28,6 @@ No Azure Machine Learning, acesse Endpoints e abra o ponto final em tempo real d
 ### Passo 7: Limpeza
 Exclua o ponto de extremidade de previsão de aluguel no Azure Machine Learning Studio para evitar custos desnecessários. Se necessário, exclua o grupo de recursos no portal Azure.
 
-### Para o passo a passo detalhado de configuração seguir as recomendações dos seguintes links:
+### Para o passo a passo detalhado das configurações seguir as recomendações dos seguintes links:
 - [Explore Azure AI Services](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/02-content-safety.html#try-out-text-moderation-in-the-content-safety-studio)
 - [Explore Automated Machine Learning in Azure Machine Learning](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html)
