@@ -23,7 +23,7 @@ Aguarde a conclusão do trabalho automatizado. Na guia Visão geral do trabalho,
 Na guia Modelo do melhor modelo treinado, selecione Implantar e configure o serviço web conforme as instruções originais.
 
 ### Passo 6: Teste do Serviço Implante
-No Azure Machine Learning, acesse Endpoints e abra o ponto final em tempo real de previsão de alugueres. Na guia Teste, substitua o modelo JSON pelos dados de entrada fornecidos em [endpoints.json]() e clique em Testar.
+No Azure Machine Learning, acesse Endpoints e abra o ponto final em tempo real de previsão de alugueres. Na guia Teste, substitua o modelo JSON pelos dados de entrada fornecidos em [endpoints.json](https://github.com/Oliver-Igor/explorando-azureML/blob/main/endpoints.json) e clique em Testar.
 
 ### Passo 7: Limpeza
 Exclua o ponto de extremidade de previsão de aluguel no Azure Machine Learning Studio para evitar custos desnecessários. Se necessário, exclua o grupo de recursos no portal Azure.
